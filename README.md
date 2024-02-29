@@ -34,6 +34,15 @@ Welcome to Target Slicer Game, a fun and interactive slicing game where your nin
 - Restart Game:Restart the game to give it another go.
 - Game Over Screen:Display a game over screen with the option to restart.
 
+## Bonus Game - Food Clicker Challenge(Whack-O-Food)
+
+### Game Features
+
+- 🍔 **Food Variety:** Click on various types of food items as they spawn randomly.
+- 🔄 **Fast-Paced Gameplay:** Test your clicking speed and accuracy.
+- 🎉 **Bonus Points:** Earn extra points for special food items.
+- 🌐 **Random Spawning:** Food items appear at different locations to keep you on your toes.
+
 ## Contributing
 
 Contributions are welcome! Whether you want to enhance existing features, add new targets, or optimize the game mechanics, feel free to submit pull requests and make Target Slicer Game even more exciting!
